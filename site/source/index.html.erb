@@ -11,3 +11,15 @@ title: Investigating Open Source
     </div>
   </div>
 </section>
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <% page_articles.each_with_index do |article, i| %>
+          <h2><%= link_to article.title, article %></h2>
+        <% end %>
+      </div>
+    </div>
+  </div>
+</section>
