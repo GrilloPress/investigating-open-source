@@ -25,6 +25,10 @@ In this article I will explore Mikhail Baktin's (sp) theory of the Carnivalesque
 
 The carnivalesque "replaces the false unity of the dominant system"
 
+## changes to the micro level
+
+moments you let the set order or people with power be distrupted
+
 
 ## When the space to be "different" is appropriated for material reasons
 
